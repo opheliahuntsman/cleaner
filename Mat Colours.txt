@@ -1,0 +1,32 @@
+Mat Colours
+background 82b4e9
+pink shaped decoration fd00cd
+headed title 95b00a
+text and numbers ffffff
+logo inside ffffff
+white decoration ffffff
+ladder yellow fdfc01
+ladder inside inline f50d01
+step #number yellow text f50d01
+ladder outside line fd02c3
+logo outside line fd02c3
+character graphic infill f4f200
+character graphic outline c5d500
+merchandise logo pink fa0fd6
+merchandise logo white dropshadow ffffff
+
+
+
+
+
+
+
+Yellow, with Greenish Shading
+Pink, With Reddish Shading
+Pink, with Dark Pink Shading
+White
+Baby 
+Hotpink
+White Text
+Dark Green Text Heading
+
